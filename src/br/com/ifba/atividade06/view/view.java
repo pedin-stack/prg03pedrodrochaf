@@ -167,7 +167,7 @@ public class view extends javax.swing.JFrame {
        
        for(int i=0; i<10; i++){ 
             listModel.addElement("[" + i + "] -> " + vetor[i]); 
-        }
+        } 
  
        lblcontroledeErros.setText("Remoção bem-sucedida");
        

@@ -20,5 +20,4 @@ public String toString(){
 
 return("Triangulo - area: "+obterArea()+"\n");
 }
- 
 }
